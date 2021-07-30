@@ -25,8 +25,8 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/abno-24/Single-Price-Design)
+- Live Site URL: [Github Pages](https://abno-24.github.io/Single-Price-Design/)
 
 ## My process
 
@@ -39,6 +39,6 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Portfolio - [Abhinav Maurya](https://abno-24.github.io/Portfolio/)
+- Frontend Mentor - [@abno-24](https://www.frontendmentor.io/profile/abno-24)
+- Twitter - [@abno_24](https://twitter.com/abno_24)
